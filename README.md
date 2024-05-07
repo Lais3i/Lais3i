@@ -1,16 +1,13 @@
-### Hi there 👋
+Bem vindos ao meu perfil!
+Meu nome é Lais Fonseca
 
-<!--
-**Lais3i/Lais3i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo no Olga e estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para o compartilhamento dos meu projetos desenvolvidos ao longo do curso.
 
-Here are some ideas to get you started:
+Você pode entrar em contato comigo 📫
+00001080419330SP@aluno.educacao.sp.gov.br
+❤❤❤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](![image](https://github.com/Lais3i/Lais3i/assets/168600217/dfa3fed9-37f1-4b2b-9947-8419825c0bc4))
+
